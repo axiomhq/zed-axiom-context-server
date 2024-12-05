@@ -1,0 +1,10 @@
+id = "axiom-context-server"
+name = "Axiom Context Server"
+description = "Model Context Server for Axiom"
+version = "0.0.1"
+schema_version = 1
+authors = ["Tomás Senart <tomas@axiom.co>"]
+repository = "https://github.com/axiomhq/axiom-context-server"
+
+[context_servers.axiom-context-server]
+name = "Axiom Context Server"

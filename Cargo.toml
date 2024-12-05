@@ -1,0 +1,14 @@
+[package]
+name = "axiom_model_context"
+version = "0.0.1"
+edition = "2021"
+publish = false
+license = "MIT"
+
+[lib]
+path = "src/axiom_model_context.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+serde = "1.0"
+zed_extension_api = "0.2.0"
