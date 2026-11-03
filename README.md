@@ -1,5 +1,8 @@
 # Axiom Context Server
 
+> [!IMPORTANT]
+> This repository is archived. To use Axiom from a coding agent or editor, connect to the [Axiom MCP Server](https://axiom.co/docs/console/intelligence/mcp-server).
+
 This extension provides a Model Context Server for Axiom, for use with the Zed AI assistant.
 
 ## Configuration
